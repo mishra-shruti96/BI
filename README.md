@@ -5,7 +5,9 @@ Forest fires have been some of the oldest threats to our nature. A forest fire d
 # Problem Statement & Objectives
 
 Forest Fires have been a major contributing factor in the loss of our forests ecosystem.
+
 • Thus, early prediction of forest fires is of paramount importance to prevent huge losses to our eco-system , human and wild life and habitat.
+
 • Also, the available methods which give us predictive results for the same are not available or outdated.
 
 
